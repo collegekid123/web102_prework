@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/9AusCUo5WjA' title='Web102 Prework' width='' alt='Video Walkthrough' />
+<img src='' title='Web102 Prework' width='' alt='Video Walkthrough' />
+https://youtu.be/9AusCUo5WjA
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
